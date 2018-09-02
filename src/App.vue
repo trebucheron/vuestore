@@ -4,6 +4,10 @@
   </div>
 </template>
 
+// a comment
+// another comment
+
+
 <script>
 export default {
   name: 'App'
