@@ -5,7 +5,7 @@
 </template>
 
 // a comment
-// yet another commentkkkdfdgfdfds
+// yet another commenting
 
 
 <script>
