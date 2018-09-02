@@ -14,4 +14,4 @@ new Vue({
   template: '<App/>'
 })
 
-// is this in git? apparently
+// is this in git? apparently...
